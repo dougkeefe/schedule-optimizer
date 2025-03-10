@@ -1,4 +1,13 @@
 /**
+ * @fileoverview Schedule Optimizer - Automatically creates a week's worth of events on Google Calendar
+ * @author Doug Keefe
+ * @version 1.0
+ * @description This script creates a structured weekly schedule with daily events including
+ *              morning routines, commute times, after-school activities, and family time.
+ *              Events are customized based on the day of the week.
+ */
+
+/**
  * Creates a week's worth of events on the specified calendar.
  */
 function createWeekEvents() {
